@@ -15,7 +15,7 @@ Olá! Eu sou o Erick Barbosa
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href='https://postimages.org/' target='_blank'><img  align="right" src='https://i.postimg.cc/bSbkmzHn/image-1.jpg' border='0' right="50px" alt='image-1'/></a>
+  <a href='#' target='_blank'><img  align="right" src='https://i.postimg.cc/bSbkmzHn/image-1.jpg' border='0' right="50px" alt='image-1'/></a>
 </div>
   
   ##
