@@ -5,10 +5,10 @@ Olá! Eu sou o Erick Barbosa
 - 💬 [mailto] barbosaerick88@gmail.com
 - 📫 Sistemas para Internet UNICAP
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/ErickBarbosa88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickBarbosa88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" position="absolute" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBarbosa88&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBarbosa88&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
