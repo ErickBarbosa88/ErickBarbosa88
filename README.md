@@ -1,6 +1,6 @@
 Olá! Eu sou o Erick Barbosa
 
-- 🔭 Atualmente estageio como Assistente de Informátca na SEPLAG
+- 🔭 Atualmente estagio como Assistente de Informátca na SEPLAG
 - 🌱 Estudando Javascript, Java, node.js, HTML/CSS
 - 💬 [mailto] barbosaerick88@gmail.com
 - 📫 Sistemas para Internet UNICAP
