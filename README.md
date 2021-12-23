@@ -17,7 +17,7 @@ Olá! Eu sou o Erick Barbosa
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Java" height="30" width="40" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"> 
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/4381/premium/4381727.png?token=exp=1639173259~hmac=028f711cb0ee16f3a0a9687dac7b316c">
+ <!-- <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/4381/premium/4381727.png?token=exp=1639173259~hmac=028f711cb0ee16f3a0a9687dac7b316c"> -->
   <!--<a href='#' target='_blank'><img  align="right" src='https://i.postimg.cc/bSbkmzHn/image-1.jpg' border='0' right="50px" alt='image-1'/></a>
 </div>-->
   
