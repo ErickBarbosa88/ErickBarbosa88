@@ -1,5 +1,6 @@
 Olá! Eu sou o Erick Barbosa
 
+-  Software Testing Intern at Projeto CIn/Motorola
 - 🌱 Estudando ferramentas voltadas para teste de softwares, além do mais principais ferramentas do desenvolvimento web
 - 💬 [mailto] barbosaerick88@gmail.com
 - 📫 Sistemas para Internet UNICAP
