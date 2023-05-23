@@ -16,10 +16,21 @@ Olá! Eu sou o Erick Barbosa
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-ori
- <!-- <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/4381/premium/4381727.png?token=exp=1639173259~hmac=028f711cb0ee16f3a0a9687dac7b316c"> -->
-  <!--<a href='#' target='_blank'><img  align="right" src='https://i.postimg.cc/bSbkmzHn/image-1.jpg' border='0' right="50px" alt='image-1'/></a>
-</div>-->
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs&theme=light">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Selenium.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg">
+    
+    
+    
+    
+   
+    
+ 
   
   ##
   
