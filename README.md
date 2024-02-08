@@ -3,6 +3,7 @@ Olá! Eu sou o Erick Barbosa
 - Profissional experiente em Garantia de Qualidade (QA) com mais de 2 anos de expertise em Garantia de Qualidade, proficiente em uma ampla variedade de tecnologias e ferramentas. Possui habilidades sólidas em Cypress, BDD (Desenvolvimento Orientado a Comportamento), JavaScript (JS), Java, SQL, Cucumber e Selenium. Demonstrou habilidade em criar estratégias de teste eficientes e eficazes, garantindo a entrega de software de alta qualidade. Habilidoso na implementação e manutenção de estruturas de teste automatizado, com foco em aprimorar a cobertura e eficiência dos testes. Comprovado histórico de colaboração com equipes multifuncionais para identificar e resolver defeitos de software. Ansioso para contribuir com conhecimentos e habilidades extensos para melhorar ainda mais a qualidade e confiabilidade de produtos de software.
 - 💬 [mailto] barbosaerick88@gmail.com
 - 📫 Bacharel Tecnologo em Sistemas para Internet UNICAP (Concluinte 2023.2)
+- CTFL: https://drive.google.com/file/d/1oC7qRkdaot_YYCRc2n6PsuGJR7-7QZJh/view?usp=sharing
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ErickBarbosa88">
