@@ -44,7 +44,7 @@ Olá! Eu sou o Erick Barbosa, tenho 24 anos.
 
 ###
 
-<img src="https://raw.githubusercontent.com/ErickBarbosa88/ErickBarbosa88/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErickBarbosa88/ErickBarbosa88/main/snake.svg" alt="Snake animation" />
 
 ###
 
