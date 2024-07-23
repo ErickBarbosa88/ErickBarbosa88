@@ -40,7 +40,19 @@ Olá! Eu sou o Erick Barbosa, tenho 24 anos.
   <a href="https://www.linkedin.com/in/erick-barbosa-6a979920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/55081991988963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
-![snake animation](https://github.com/ErickBarbosa88/ErickBarbosa88/blob/output/github-contribution-grid-snake.svg)
+<p align="left">Hello World!!</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/ErickBarbosa88/ErickBarbosa88/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ErickBarbosa88/count.svg?"  />
+</div>
+
+###
 
 
 
