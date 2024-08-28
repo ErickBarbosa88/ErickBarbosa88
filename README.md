@@ -5,7 +5,6 @@
   <h3 align="left">Formação:</h3>
   
   - 📫 Tecnólogo em Sistemas para Internet UNICAP (Concluinte 2023.2)
-  - 📫 Cursando ADS na UNINTER (2024 - 2026)
 
   <h3 align="left">Certificados:</h3>
 
